@@ -1,25 +1,25 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"M Tayyab",
+    "occupation":"Web Devolper",
+    "description":"An enthusiastic web designer and developer who works with extreme dedication to fulfill the expectation of client in order to satisfy client with my expertise.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and Data Scientist.",
+    "contactmessage":"I design, Review and develop an attractive website and fully responsive website with great functionality and with the best services along with quality work and will surely stand up to client expectations. If you would like a hand with JavaScript developer, React developer, Redux developer, and Firebase at the backend of the web I'll get right on it",
+    "email": "m.tayyab.gcuf@gmail.com",
+    "phone": "03037902194",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Gojra",
+      "city":"Faislabad",
+      "state":"Punjab",
+      "zip": "52000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://web.facebook.com/chtayyab.gujjar9494/",
         "className":"fa fa-facebook"
       },
       {
@@ -29,22 +29,22 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://googleplus.com/",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/muhammad-tayyab-947836170/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/muhammadtayyabgujjar",
         "className":"fa fa-github"
       },
       {
@@ -55,62 +55,62 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I'm experienced with various technologies: React.js, Redux, React Routing, Enzyme, Jest, Formic, firebase database.I'm familiar with the latest JavaScript code, style & conventions and always keep up to date with React.js new API and I prefer working with designs under Bootstrap/ Material UI and some more attractive designing to create pixel-perfect UI",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Goverment College University Faislabad",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"April 2020",
+        "description":"Under the recommendation and Guidance of the Head Coach of the UVIC soccer team, I transferred to the University of GCUF. Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms. "
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Goverment College Gojra",
+        "degree":"FSC (Pre-Engineering)",
+        "graduated":"March 2016",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"MithaCloud",
+        "title":"Senior Web Devolper",
+        "years":"March 2018 - Present",
+        "description":"For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy Firebase backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks." 
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Fiver $ Upwork",
+        "title":"Devolper and DataScientist",
+        "years":"March 2017 - present",
+        "description":"I'm a M Tayyab and am always interested in playing around with new technologies but these are the ones that have really won me over"
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Web Design",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"Web Developer",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"95%"
+      },
+      {
+        "name":"Data Analysis",
+        "level":"75%"
+      },
+      {
+        "name":"Redux",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Data Engineering",
+        "level":"60%"
       },
       {
-        "name":"MongoDB",
+        "name":"Firebase",
         "level":"80%"
       }
     ]
@@ -118,46 +118,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Quiz App",
+        "category":"This is Quiz App during the situation of Covid 19",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://typescriptquiz.surge.sh/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Expense Tracker",
+        "category":"Expense Traccker app for comon use",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://expense_appp.surge.sh/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://onlinestore-22e59.web.app/"
       },
       {
         "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "category":"Simple front end projects woth best design",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://sylanihomepage-5cdf9.web.app/assignment%203/index.html"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Haris Ali... Web Devolper"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"That M Tayyab must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Aftab Ahmad... impersonator"
       }
     ]
   }
