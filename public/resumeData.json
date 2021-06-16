@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"M Tayyab",
-    "occupation":"Web Devolper",
+    "occupation":"Web Developer",
     "description":"An enthusiastic web designer and developer who works with extreme dedication to fulfill the expectation of client in order to satisfy client with my expertise.",
     "image":"profilepic.jpg",
     "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and Data Scientist.",
@@ -67,7 +67,7 @@
         "school":"Goverment College Gojra",
         "degree":"FSC (Pre-Engineering)",
         "graduated":"March 2016",
-        "description":""
+        "description":"I Started the my Computer Science Career from this College by getting some Computer professional Diplomas.  "
       }
     ],
     "work":[
@@ -97,21 +97,26 @@
         "name":"ReactJs",
         "level":"95%"
       },
-      {
-        "name":"Data Analysis",
-        "level":"75%"
-      },
+     
       {
         "name":"Redux",
-        "level":"80%"
+        "level":"90%"
       },
       {
-        "name":"Data Engineering",
-        "level":"60%"
+        "name":"React Native",
+        "level":"70%"
       },
       {
         "name":"Firebase",
         "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"65%"
+      },
+      {
+        "name":"Mongodb",
+        "level":"91%"
       }
     ]
   },
